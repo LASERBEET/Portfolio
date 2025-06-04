@@ -1,1 +1,4 @@
-This portfolio is my work that I have collected throughout my 3 years of university studies.
+# 👋 Hi there! I'm Pattarapol
+## 💼 About Me
+-  🔭 Studying Computer Science at Huachiew Chalermprakiet University
+-  📫 How to reach me: 650986@hcu.ac.th
